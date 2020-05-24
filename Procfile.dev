@@ -1,0 +1,4 @@
+# Use this to start normal rails PORT=3000 foreman start -f Procfile.dev
+
+web: bin/rails s -p ${PORT:-3000}
+2 webpacker: ./bin/webpack-dev-server
