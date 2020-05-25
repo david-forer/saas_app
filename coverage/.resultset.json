@@ -239,25 +239,6 @@
           null
         ]
       },
-      "/home/david/apps/saas_app/saas_app/app/models/role.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null
-        ]
-      },
       "/home/david/apps/saas_app/saas_app/app/jobs/application_job.rb": {
         "lines": [
           0,
@@ -353,8 +334,29 @@
         ],
         "branches": {
         }
+      },
+      "/home/david/apps/saas_app/saas_app/app/models/role.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1590409543
+    "timestamp": 1590414250
   }
 }
