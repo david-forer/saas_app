@@ -4,6 +4,8 @@
       "/home/david/apps/saas_app/saas_app/app/models/user.rb": {
         "lines": [
           1,
+          1,
+          null,
           null,
           null,
           1,
@@ -28,12 +30,29 @@
       "/home/david/apps/saas_app/saas_app/app/helpers/application_helper.rb": {
         "lines": [
           1,
-          null
-        ]
-      },
-      "/home/david/apps/saas_app/saas_app/app/controllers/application_controller.rb": {
-        "lines": [
           1,
+          null,
+          9,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          15,
+          9,
+          9,
+          null,
+          9,
+          null,
+          null,
+          9,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -44,6 +63,79 @@
           null,
           null,
           1,
+          null,
+          null
+        ]
+      },
+      "/home/david/apps/saas_app/saas_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          17,
+          10,
+          null,
+          7,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/david/apps/saas_app/saas_app/app/models/account.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/david/apps/saas_app/saas_app/app/controllers/registrations_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/david/apps/saas_app/saas_app/app/controllers/accounts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
           null,
           null
         ]
@@ -92,6 +184,6 @@
         }
       }
     },
-    "timestamp": 1590326359
+    "timestamp": 1590388805
   }
 }
