@@ -36,6 +36,7 @@
                                     <tr>
                                         <td><%= user.name %></td>
                                         <td><%= user.email %></td>
+                                       
                                         <td><%= user.accepted_or_not_invited? ? "Active" : "Invited" %></td>
                                         <td><%= user.account.roles&.first&.name&.capitalize %></td>
                                         <td><%= user.created_at.strftime('%D') %></td>

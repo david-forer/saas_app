@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   
+  get 'static/support'
   devise_for :users, controllers: { registrations: "registrations" }
   resource :accounts
 

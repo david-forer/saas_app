@@ -36,6 +36,7 @@
                         <div class="col-lg-10">
                             <%= f.email_field :email, {placeholder: "Email Address", class: "form-control"} %>
                         </div>
+                       
                         <%= label_tag "user[role]", "Role", class: 'control-label col-lg-2' %>
                         <div class="col-lg-10">
                             <%=  select_tag "user[role]", options_for_select(@choices, 'user'),  class: 'form-control' %>
