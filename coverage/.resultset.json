@@ -6,6 +6,7 @@
           1,
           1,
           1,
+          1,
           null,
           null,
           null,
@@ -68,6 +69,9 @@
           1,
           1,
           null,
+          1,
+          null,
+          null,
           null,
           1,
           null,
@@ -86,7 +90,14 @@
           null,
           1,
           0,
+          null,
+          1,
+          null,
+          1,
           0,
+          0,
+          null,
+          null,
           null,
           null,
           1,
@@ -102,6 +113,7 @@
       },
       "/home/david/apps/saas_app/saas_app/app/controllers/users_controller.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -256,6 +268,8 @@
         "lines": [
           0,
           0,
+          null,
+          0,
           0,
           0,
           0,
@@ -335,6 +349,29 @@
         "branches": {
         }
       },
+      "/home/david/apps/saas_app/saas_app/app/models/ability.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/home/david/apps/saas_app/saas_app/app/models/role.rb": {
         "lines": [
           0,
@@ -357,6 +394,6 @@
         }
       }
     },
-    "timestamp": 1590414250
+    "timestamp": 1590565144
   }
 }

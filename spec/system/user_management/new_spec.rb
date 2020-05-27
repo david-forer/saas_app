@@ -1,9 +1,10 @@
 require 'rails_helper'
 
 RSpec.describe 'New User', type: :system do
-  login_user
+  login_admin
 
   it 'should be able to visit the user index and see at least one user' do
+
     visit account_users_path
 
     expect(page).to have_current_path(account_users_path)
@@ -14,6 +15,7 @@ RSpec.describe 'New User', type: :system do
     login_user
 
     it 'should redirect with only user access' do
+
       visit account_users_path
 
       expect(page).to have_current_path(root_path)
@@ -21,6 +23,7 @@ RSpec.describe 'New User', type: :system do
   end
 
   context 'click and new the user' do
+
     it 'should click new and go to new page' do
       visit account_users_path
       click_on('Add User')
@@ -56,5 +59,6 @@ RSpec.describe 'New User', type: :system do
         expect(page).to have_current_path(account_users_path)
       end
     end
+    
   end
 end
