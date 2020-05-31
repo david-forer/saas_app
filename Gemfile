@@ -39,6 +39,7 @@ group :development, :test do
   # gem 'rspec-rails', '~> 4.0.0'
   gem 'rspec-rails', :github => 'rspec/rspec-rails', :branch => '4-0-maintenance'
   gem 'rails-controller-testing'
+  gem 'shoulda-matchers'
   gem 'capybara'
   gem 'simplecov', :require => false, :group => :test
   gem "factory_bot_rails"
